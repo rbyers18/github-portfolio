@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 categories: [intro]
+excerpt: Here's a quick snippet preview of the post
 ---
 
 categories: intro
