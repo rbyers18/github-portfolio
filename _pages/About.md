@@ -1,7 +1,7 @@
 ---
 layout: page
-title: New
-permalink: /new/
+title: About
+permalink: /About/
 ---
 
 Quick intro about myself
