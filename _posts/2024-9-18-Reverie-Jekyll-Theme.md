@@ -11,14 +11,22 @@ Finding very little support for this specific theme, hopefully this can answer s
 After creating a Repository (I used this youtube video to get started) I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie) .
 
 ![](/images/GetReverieonGitHub.png)
-There are two options here for copying the theme into your repository; I'll cover what I did, but there is also an easier option I discovered afterwards.
+
+There are many ways to upload the theme to your github pages, but I'll outline a couple below. 
 
 Option 1) 
+You can open the template in a code space
+
+![](/images/Createrepositorytemplate.png)
 
 Option 2) 
-You can more easily Go to the Live Demo Button, and navigate to the Getting Started page. From there, you'll find a link to "Use this Template"
+You can more easily Go to the Live Demo Button, and navigate to the Getting Started page. 
 
 ![](/images/Gettingstarted.png)
+
+From there, you'll find a link to "Use this Template", and you can type github.io
+
+This will take you to 
 
 ## _config.yml file changes
 
