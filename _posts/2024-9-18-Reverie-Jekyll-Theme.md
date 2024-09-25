@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up Reverie Jekyll theme
-categories: [intro]
+categories: [Jekyll,Github]
 excerpt: Getting setup with the Reverie Jekyll theme.
 ---
 
@@ -24,7 +24,7 @@ You can more easily Go to the Live Demo Button, and navigate to the Getting Star
 
 ![](/images/Gettingstarted.png)
 
-From there, you'll find a link to "Use this Template", and you can type github.io
+From there, you'll find a link to "Use this Template", and you can type in "github.io"
 
 This will take you to 
 
