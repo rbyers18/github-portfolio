@@ -10,7 +10,7 @@ Finding very little support for this specific theme, hopefully this can answer s
 
 After creating a Repository (I used this youtube video to get started) I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie) .
 
-![](images/GetReverieonGitHub.png)
+![](/images/GetReverieonGitHub.png)
 There are two options here for copying the theme into your repository; I'll cover what I did, but there is also an easier option I discovered afterwards.
 
 Option 1) 
@@ -18,7 +18,7 @@ Option 1)
 Option 2) 
 You can more easily Go to the Live Demo Button, and navigate to the Getting Started page. From there, you'll find a link to "Use this Template"
 
-![](images/Gettingstarted.png)
+![](/images/Gettingstarted.png)
 
 ## _config.yml file changes
 
