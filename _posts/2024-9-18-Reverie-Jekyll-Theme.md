@@ -30,7 +30,8 @@ This will take you to
 
 ## _config.yml file changes
 
-I'll admit, I called in some help on this one. My limited experience with Git meant I couldn't figure out if I was stuck on something in Github or in the Jekyll files.
+I'll admit, I called in some help on this one. My limited experience with Git meant I couldn't figure out if I was stuck on something in Github or in the Jekyll files. 
+What you will want to do for this part is actually open and edit the _config
 
 
 You'll also want to update the title, author, etc.
