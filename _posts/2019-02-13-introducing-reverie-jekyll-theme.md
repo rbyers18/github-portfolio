@@ -9,7 +9,7 @@ categories: [Jekyll]
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
 [<img src="{{ site.baseurl }}/images/reverie-demo.png"  style="width: 400px;"/>]({{ site.baseurl }}/)
-![](site.baseurl/images/reverie-demo.png)
+![]({{site.baseurl}}/images/reverie-demo.png)
 
 ## Features overview
 
