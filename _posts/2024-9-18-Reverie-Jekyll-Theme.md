@@ -10,19 +10,19 @@ Finding very little support for the Reverie theme, hopefully this can answer som
 
 After creating a Repository (some starting tips in this [Medium article](https://medium.com/@kapil0123/building-your-stunning-github-portfolio-a-step-by-step-guide-a5e8650c5009) steps one and two). Next, I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie).
 
-![](/images/GetReverieonGitHub.png)
+![]({{site.baseurl}}/images/GetReverieonGitHub.png)
 
 There are many ways to upload the theme to your github pages, but I'll outline a couple below. 
 
 Option 1) 
 You can open the template in a code space
 
-![](/images/Createrepositorytemplate.png)
+![]({{site.baseurl}}/images/Createrepositorytemplate.png)
 
 Option 2) 
 You can more easily Go to the Live Demo Button, and navigate to the Getting Started page. 
 
-![](/images/Gettingstarted.png)
+![]({{site.baseurl}}/images/Gettingstarted.png)
 
 From there, you'll find a link to "Use this Template", and you can type in "github.io"
 
