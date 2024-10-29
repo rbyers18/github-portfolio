@@ -8,7 +8,11 @@ excerpt: Getting setup with the Reverie Jekyll theme.
 For my first post, I am taking inspiration from Yu Dong's [DongDataDive](https://yudong-94.github.io/personal-website/) posts and articles on setting up GitHub Pages and using a Jekyll theme.
 Finding very little support for the Reverie theme, hopefully this can answer some questions for others on the same path :)
 
-After creating a Repository (some starting tips in this [Medium article](https://medium.com/@kapil0123/building-your-stunning-github-portfolio-a-step-by-step-guide-a5e8650c5009) steps one and two). Next, I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie).
+This [Medium article](https://medium.com/@kapil0123/building-your-stunning-github-portfolio-a-step-by-step-guide-a5e8650c5009) is a great starter - steps one and two are very straightforward. Create a Github account, and then create a new repository. 
+
+## Setting up a Jekyll Theme
+
+Step three in the article is a little vague, so this is what I'll outline a bit more below. To start, I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie).
 
 ![]({{site.baseurl}}/images/GetReverieonGitHub.png)
 
