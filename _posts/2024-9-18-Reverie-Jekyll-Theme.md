@@ -8,28 +8,18 @@ excerpt: Getting setup with the Reverie Jekyll theme.
 For my first post, I am taking inspiration from Yu Dong's [DongDataDive](https://yudong-94.github.io/personal-website/) posts and articles on setting up GitHub Pages and using a Jekyll theme.
 Finding very little support for the Reverie theme, hopefully this can answer some questions for others on the same path :)
 
-This [Medium article](https://medium.com/@kapil0123/building-your-stunning-github-portfolio-a-step-by-step-guide-a5e8650c5009) is a great starter - steps one and two are very straightforward. Create a Github account, and then create a new repository. 
+This [Medium article](https://medium.com/@kapil0123/building-your-stunning-github-portfolio-a-step-by-step-guide-a5e8650c5009) is a great starter - steps one and two are very straightforward. Create a Github account, and then create a new repository. Step three needs a bit more of an explanation (at least for me - this is where I got lost!)
 
 ## Setting up a Jekyll Theme
 
-Step three in the article is a little vague, so this is what I'll outline a bit more below. To start, I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie). Note the two big buttons - "Get Reverie on GitHub" and "Live Demo". Both of these lead to the same place.
+To pick out a Jekyll theme I wanted, I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie).
 
 ![]({{site.baseurl}}/images/GetReverieonGitHub.png)
 
-The "Live Demo" button from the Reverie page will send you to a copy of the theme on a live site. Navigate to the [Getting Started](https://reverie.pages.dev/getting-started/) page. 
-
-![]({{site.baseurl}}/images/Gettingstarted.png)
-
-From there, you'll find a link to "Use this Template", and you can type in the name you'd like to use for your GitHub pages. (I used github-portfolio)
+If you select the "Get Reverie on GitHub" button you will see a page like this: 
 
 ![]({{site.baseurl}}/images/Createrepositorytemplate.png)
-This will take you to 
-
-Option 2) 
-You can select the "Get Reverie on GitHub" button, which will take you to a [pubilc template](https://github.com/amitmerchant1990/reverie).
-
-
-
+Simply type in the name you'd like to use for your GitHub pages. (I used "github-portfolio"). Then select Create repository.  
 
 
 ## _config.yml file changes
