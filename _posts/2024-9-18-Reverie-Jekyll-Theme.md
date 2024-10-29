@@ -31,6 +31,9 @@ What you will want to do for this part is actually open and edit the _config.yml
 You will want to change the urls in the config file to point to your new repository here. 
 You'll also want to update the title, author, etc. Then, commit the changes!
 
-At this point, you'll want to navigate to the Settings tab 
+At this point, you'll want to navigate to the Settings tab and the scroll down the left-hand list to Pages. 
+
+![]({{site.baseurl}}/images/Settings.png)
+
 
 
