@@ -12,29 +12,29 @@ This [Medium article](https://medium.com/@kapil0123/building-your-stunning-githu
 
 ## Setting up a Jekyll Theme
 
-Step three in the article is a little vague, so this is what I'll outline a bit more below. To start, I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie).
+Step three in the article is a little vague, so this is what I'll outline a bit more below. To start, I searched for [free Jekyll themes](https://jekyllthemes.io/free) and selected [Reverie](https://jekyllthemes.io/theme/reverie). Note the two big buttons - "Get Reverie on GitHub" and "Live Demo". Both of these lead to the same place.
 
 ![]({{site.baseurl}}/images/GetReverieonGitHub.png)
 
-There are many ways to upload the theme to your github pages, but I'll outline a couple below. 
-
-Option 1) 
-You can open the template in a code space
-
-![]({{site.baseurl}}/images/Createrepositorytemplate.png)
-
-Option 2) 
-You can more easily Go to the Live Demo Button, and navigate to the Getting Started page. 
+The "Live Demo" button from the Reverie page will send you to a copy of the theme on a live site. Navigate to the [Getting Started](https://reverie.pages.dev/getting-started/) page. 
 
 ![]({{site.baseurl}}/images/Gettingstarted.png)
 
-From there, you'll find a link to "Use this Template", and you can type in "github.io"
+From there, you'll find a link to "Use this Template", and you can type in the name you'd like to use for your GitHub pages. (I used github-portfolio)
 
+![]({{site.baseurl}}/images/Createrepositorytemplate.png)
 This will take you to 
+
+Option 2) 
+You can select the "Get Reverie on GitHub" button, which will take you to a [pubilc template](https://github.com/amitmerchant1990/reverie).
+
+
+
+
 
 ## _config.yml file changes
 
-I'll admit, I called in some help on this one. My limited experience with Git meant I couldn't figure out if I was stuck on something in Github or in the Jekyll files. 
+I'll admit, I called in some help on this one. My limited experience with Github meant I couldn't figure out where or why I was stuck. 
 What you will want to do for this part is actually open and edit the _config.yml text to point to your page.
 
 
