@@ -20,14 +20,17 @@ If you select the "Get Reverie on GitHub" button you will see a page like this:
 
 ![]({{site.baseurl}}/images/Createrepositorytemplate.png)
 Simply type in the name you'd like to use for your GitHub pages. (I used "github-portfolio"). Then select Create repository.  
-
+You're not quite done yet, there's one more important step!
 
 ## _config.yml file changes
 
 I'll admit, I called in some help on this one. My limited experience with Github meant I couldn't figure out where or why I was stuck. 
-What you will want to do for this part is actually open and edit the _config.yml text to point to your page.
+What you will want to do for this part is actually open and edit the _config.yml text to point to your page. 
 
+![]({{site.baseurl}}/images/Config_file_img.png)
+You will want to change the urls in the config file to point to your new repository here. 
+You'll also want to update the title, author, etc. Then, commit the changes!
 
-You'll also want to update the title, author, etc.
+At this point, you'll want to navigate to the Settings tab 
 
 
