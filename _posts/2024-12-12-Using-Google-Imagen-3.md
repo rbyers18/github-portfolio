@@ -25,11 +25,20 @@ Now onto remembering exactly where to change the images on my website...
 ## Changing the image in the browser tab
 
 First I added the image to the images folder:
+![]({{site.baseurl}}/images/upload_image.png)
 
 Next, I navigated to the _layouts folder and then to the default file. I located the code for the image and swapped it out the new image file:
+![]({{site.baseurl}}/images/layouts_default.png)
 
-Save changes, pause for uploading, refresh, and viola, a neat new browser image. Onto the next step...
+Save changes, pause for uploading, refresh, and viola, a neat new browser image. 
+![]({{site.baseurl}}/images/browser_tab.png)
+
+Onto the next step...
 
 ## Changing the image in the header
-To change the avatar on the site, I navigated to _config.yml file and found the section for the avatar image. I swapped out the file name, saved changes and refreshed. And that's a wrap.
+To change the avatar on the site, I navigated to _config.yml file and found the section for the avatar image:
+![]({{site.baseurl}}/images/config_avatar.png)
+
+I swapped out the file name, saved changes and refreshed. And that's a wrap!
+![]({{site.baseurl}}/images/avatar.png)
 
