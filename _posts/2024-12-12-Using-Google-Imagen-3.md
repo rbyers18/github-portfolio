@@ -1,0 +1,35 @@
+---
+layout: post
+title: Using Google's Imagen 3 AI image generator for my new portfolio thumbnail
+categories: [AI,Imagen 3,Jekyll]
+excerpt: Experimenting with the Gemini "text-to-image" model and updating the image for my Github site.
+---
+
+Today I updated the images used for my thumbnail on this site - it took me less than 15 minutes (could have been quicker if I'd remembered how to update the images in the jekyll theme). Here's how it went:
+
+## Google Gemini Imagen 3
+
+I have only used Google's Gemini image generator once before, so I'm still learning more about structuring the request to get the image that I expect. The current version of ChatGPT that I use for work (4o) does very well at keeping previous queries and data provided in mind as I tweak answers or add to a query. Google's Imagen 3 - not so much. 
+
+Reading through some of the documentation (link https://deepmind.google/technologies/imagen-3/) I can see that the prompt examples are very well structured, almost like image captions provided for impaired users. 
+"Prompt: Detailed illustration of majestic lion roaring proudly in a dream-like jungle, purple white line art background, clipart on light violet paper texture"
+"Prompt: Claymation scene. A medium wide shot of an elderly woman. She is wearing flowing clothing. She is standing in a lush garden watering the plants with an orange watering can"
+
+For my new thumbnail, I wanted an image that had my initials, a data analytics theme, and maybe the space needle as a tribute to my beloved city of Seattle. After my first two prompts, I wanted to combine elements of the first two images. "Take the background from the first image and add the space needle from the second image". Fail. 
+It seems as though recalling or incorporating previously generated images isn't yet fully functional. Each prompt needs to start from scratch. Oh well, not a huge deal. Only four prompts and I got a winner:
+
+![]({{site.baseurl}}/images/space needle.png)
+
+Now onto remembering exactly where to change the images on my website...
+
+## Changing the image in the browser tab
+
+First I added the image to the images folder:
+
+Next, I navigated to the _layouts folder and then to the default file. I located the code for the image and swapped it out the new image file:
+
+Save changes, pause for uploading, refresh, and viola, a neat new browser image. Onto the next step...
+
+## Changing the image in the header
+To change the avatar on the site, I navigated to _config.yml file and found the section for the avatar image. I swapped out the file name, saved changes and refreshed. And that's a wrap.
+
